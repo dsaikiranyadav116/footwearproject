@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/footwearproject/static/css/main.9cd91bea.css",
+    "main.js": "/footwearproject/static/js/main.c7f6c145.js",
+    "static/js/787.f1bd99b5.chunk.js": "/footwearproject/static/js/787.f1bd99b5.chunk.js",
+    "index.html": "/footwearproject/index.html",
+    "main.9cd91bea.css.map": "/footwearproject/static/css/main.9cd91bea.css.map",
+    "main.c7f6c145.js.map": "/footwearproject/static/js/main.c7f6c145.js.map",
+    "787.f1bd99b5.chunk.js.map": "/footwearproject/static/js/787.f1bd99b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cd91bea.css",
+    "static/js/main.c7f6c145.js"
+  ]
+}
